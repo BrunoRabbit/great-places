@@ -1,16 +1,8 @@
 # great_places
 
-A new Flutter project.
+This project aims to use native resources, such as google maps and the cell phone camera.
+It was made following the Cod3r classes
 
-## Getting Started
+## Remarks about
+- To use a Google Maps API you need a key, I have hidden the key in the .env file and removed the androidmanifest.xml for the same reason
 
-- Google key in .env file and remove AndroidManifest.xml in android/app//src/main/.xml
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
