@@ -1,5 +1,5 @@
 # great_places
-
+<h3> App for mobile </h3>
 This project aims to use native resources, such as google maps and the cell phone camera.
 It was made following the Cod3r classes
 
